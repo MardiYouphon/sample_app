@@ -32,6 +32,7 @@ SampleApp::Application.configure do
 # and use secure cookies.
 
 config.force_ssl = true
+config.serve_static_assets = true
 
 # config.force_ssl = true
 
